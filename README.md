@@ -47,8 +47,9 @@
 
 > Add screenshots here once hosted or locally saved. Example:
 
-![Homepage](./assets/screenshot-home.png)
-![Modal Form](./assets/screenshot-form.png)
+![Homepage](./assets/output1.png)
+![Cards](./assets/output2.png)
+![Form](./assets/screenshot-form.png)
 
 ---
 
