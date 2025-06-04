@@ -318,6 +318,16 @@ a {
     padding: 40px 0;
 }
 
+.sections1 {
+    display: none;
+    flex-direction: column;
+    gap: 40px;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
 .section-category {
     display: flex;
     justify-content: space-between;
@@ -395,6 +405,12 @@ a {
 
 
 @media screen and (max-width: 768px) {
+    .sections{
+        display: none;
+    }
+    .sections1{
+        display: flex;
+    }
     .section-category {
         flex-direction: column;
         text-align: center;
